@@ -4,6 +4,10 @@ This project is a Todolist made by Charles Van Hame for Datadict
 
 In the project directory, you can run:
 
+### `npm install`
+
+Download App dependencies.
+
 ### `npm start`
 
 Runs the app in the development mode.
